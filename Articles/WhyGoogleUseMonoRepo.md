@@ -5,9 +5,9 @@
 Article about managing one of the biggest repository
 
 ## Content Overview
-  - [Table of view](#table-of-view)
-  - [Piper](#piper)
-  - [Used articles:](#used-articles)
+ - [Content Overview](#content-overview)
+ - [Piper and CitC](#piper-and-citc)
+ - [Used articles and resources](#used-articles-and-resources)
 
 ## Piper and CitC
 Google use Piper to store their codebase. Piper contains all repo and is distributed over 10 Google data centers around the world, relying on the [Paxos6](https://en.wikipedia.org/wiki/Paxos_(computer_science)) algorithm to guarantee consistency across replicas. 
