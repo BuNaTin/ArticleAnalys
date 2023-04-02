@@ -71,9 +71,7 @@ Fun fact: Rosie creates nearly 7 thousand commits every year (from 2013 to 2015)
 
 For example, let's see the advantages of this kind of repository for the compilers team. The monolithic repository provides the team with full visibility of how various languages are used at Google and allows them to do codebase-wide cleanups to prevent changes from breaking builds or creating issues for developers. This greatly simplifies compiler validation, thus reducing compiler release cycles and making it possible for Google to safely do regular compiler releases (typically more than 20 per year for the C++ compilers).
 
-```
-An important aspect of Google culture that encourages code quality is the expectation that all code is reviewed before being committed to the repository.
-```
+> An important aspect of Google culture that encourages code quality is the expectation that all code is reviewed before being committed to the repository.
 
 ## Used articles and resources
  - [What version control system does Google use and why](https://www.quora.com/What-version-control-system-does-Google-use-and-why#:~:text=What%20source%20control%20does%20Google,internally%20developed%20system%20called%20Piper.&text=Google's%20monolithic%20repository%20provides%20a,of%20developers%20around%20the%20world.)
