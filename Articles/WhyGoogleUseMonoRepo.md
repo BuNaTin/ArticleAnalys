@@ -8,6 +8,8 @@ Article about managing one of the biggest codebase
   - [Google's tooling and workflows](#googles-tooling-and-workflows)
     - [Tools](#tools)
     - [Google workflow](#google-workflow)
+  - [Analys](#analys)
+    - [Advantages](#advantages)
   - [Used articles and resources](#used-articles-and-resources)
 
 ## Google's tooling and workflows
